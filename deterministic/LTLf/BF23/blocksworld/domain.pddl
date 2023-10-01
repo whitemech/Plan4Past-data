@@ -3,7 +3,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (define (domain blocks-domain)
-  (:requirements :strips :typing)
+  (:requirements :disjunctive-preconditions :strips :typing)
   (:types block)
   (:predicates
 	       (ontable ?x - block)

@@ -1,5 +1,6 @@
 (define (domain grounded-STRIPS-OPENSTACKS-SEQUENCEDSTRIPS)
 (:requirements
+:disjunctive-preconditions
 :strips
 )
 (:predicates
