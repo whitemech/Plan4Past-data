@@ -3,7 +3,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (define (domain blocks-domain)
-  (:requirements :strips)
+  (:requirements :strips :typing)
   (:types block)
   (:predicates
 	       (ontable ?x - block)
