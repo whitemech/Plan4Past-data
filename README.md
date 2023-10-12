@@ -15,6 +15,13 @@ Plan4Past-data is released under the GNU Lesser General Public License v3.0 or l
 
 Copyright 2021 -- 2023 WhiteMech
 
+## Authors
+
+* [Luigi Bonassi](https://github.com/LBonassi95) <[luigi.bonassi@unibs.it](mailto:luigi.bonassi@unibs.it)>
+* [Marco Favorito](https://github.com/marcofavorito) <[marco.favorito@gmail.com](mailto:marco.favorito@gmail.com)>
+* [Francesco Fuggitti](https://github.com/francescofuggitti) <[francesco.fuggitti@gmail.com](mailto:francesco.fuggitti@gmail.com)>
+
+
 ## Citing
 
 If you use Plan4Past datasets in your research, please consider citing the following papers.
