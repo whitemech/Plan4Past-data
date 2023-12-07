@@ -6,8 +6,7 @@ Plan4Past-data hosts the datasets used in the experiments of the following paper
 
 - [Planning for Temporally 
 Extended Goals in Pure-Past Linear Temporal Logic. ICAPS 2023. Best Student Paper Award.](https://ojs.aaai.org/index.php/ICAPS/article/view/27179)
-- FOND Planning for 
-Pure-Past Linear Temporal Logic Goals. ECAI 2023. (To appear)
+- [FOND Planning for Pure-Past Linear Temporal Logic Goals. ECAI 2023.](https://ebooks.iospress.nl/doi/10.3233/FAIA230281)
 
 ## License
 
@@ -46,14 +45,18 @@ If you use Plan4Past datasets in your research, please consider citing the follo
 ```
 @inproceedings{ecai2023bdffgs,
   author       = {Luigi Bonassi and
-                  Giuseppe {De Giacomo} and
+                  Giuseppe De Giacomo and
                   Marco Favorito and
                   Francesco Fuggitti and
-                  {Alfonso Emilio} Gerevini and
+                  Alfonso Emilio Gerevini and
                   Enrico Scala},
   title        = {{FOND} Planning for Pure-Past Linear Temporal Logic Goals},
   booktitle    = {{ECAI}},
-  year         = {2023},
+  series       = {Frontiers in Artificial Intelligence and Applications},
+  volume       = {372},
+  pages        = {279--286},
+  publisher    = {{IOS} Press},
+  year         = {2023}
 }
 ```
 
